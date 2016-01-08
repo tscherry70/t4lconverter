@@ -1,0 +1,13 @@
+E:\VSProjects\t4lConverter\t4lConverter\obj\x86\Debug\t4lConverter.csprojResolveAssemblyReference.cache
+E:\VSProjects\t4lConverter\t4lConverter\obj\x86\Debug\t4lConverter.Form1.resources
+E:\VSProjects\t4lConverter\t4lConverter\obj\x86\Debug\t4lConverter.Properties.Resources.resources
+E:\VSProjects\t4lConverter\t4lConverter\obj\x86\Debug\t4lConverter.csproj.GenerateResource.Cache
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\t4lConverter.exe.config
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\t4lConverter.exe
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\t4lConverter.pdb
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\Excel.dll
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\log4net.dll
+E:\VSProjects\t4lConverter\t4lConverter\bin\Debug\Excel.pdb
+E:\VSProjects\t4lConverter\t4lConverter\obj\x86\Debug\t4lConverter.exe
+E:\VSProjects\t4lConverter\t4lConverter\obj\x86\Debug\t4lConverter.pdb

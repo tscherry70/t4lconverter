@@ -1,0 +1,17 @@
+F:\downloads\ExcelDataReader-master\ExcelDataReader-master\Excel\bin\Debug\Excel.dll
+F:\downloads\ExcelDataReader-master\ExcelDataReader-master\Excel\bin\Debug\Excel.pdb
+F:\downloads\ExcelDataReader-master\ExcelDataReader-master\Excel\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\downloads\ExcelDataReader-master\ExcelDataReader-master\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+F:\downloads\ExcelDataReader-master\ExcelDataReader-master\Excel\obj\Debug\Excel.dll
+F:\downloads\ExcelDataReader-master\ExcelDataReader-master\Excel\obj\Debug\Excel.pdb
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Debug\Excel.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Debug\Excel.pdb
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\obj\Debug\Excel.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\obj\Debug\Excel.pdb
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Debug\log4net.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+E:\VSProjects\t4lConverter\Excel\bin\Debug\Excel.dll
+E:\VSProjects\t4lConverter\Excel\bin\Debug\Excel.pdb
+E:\VSProjects\t4lConverter\Excel\obj\Debug\Excel.dll
+E:\VSProjects\t4lConverter\Excel\obj\Debug\Excel.pdb

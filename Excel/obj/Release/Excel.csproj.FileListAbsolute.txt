@@ -1,0 +1,7 @@
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Release\Excel.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Release\Excel.pdb
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\bin\Release\log4net.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\obj\Release\Excel.dll
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\obj\Release\Excel.pdb
+F:\TFSWorkspace\Repo\Windows Services\FuelService\Excel\obj\Release\Excel.csprojResolveAssemblyReference.cache
